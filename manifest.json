@@ -1,0 +1,12 @@
+{
+  "name": "DevNotify - Notifications for DevMashers",
+  "short_name": "DevNotify",
+  "theme_color": "#212121",
+  "background_color": "#272727",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
